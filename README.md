@@ -2,6 +2,12 @@
 
 ![Playwright Tests](https://github.com/nipunyarlagadda/enterprise-qa-automation/actions/workflows/playwright.yml/badge.svg)
 
+## Project Overview
+
+An enterprise-style QA automation framework designed to validate application quality across the UI, API, and database layers.
+
+The framework demonstrates real-world testing practices including automated regression testing, backend data validation, API verification, cross-browser execution, and continuous integration using GitHub Actions.
+
 A full-stack QA automation framework built with **Playwright, TypeScript, API Testing, PostgreSQL Database Validation, and GitHub Actions CI/CD**.
 
 This project demonstrates automated testing across multiple application layers:
@@ -250,6 +256,22 @@ Current CI coverage:
 
 ---
 
+## Test Execution Results
+
+Latest CI pipeline execution:
+
+- Total Tests: 15
+- Passed: 15
+- Failed: 0
+- Browsers Tested:
+  - Chromium
+  - Firefox
+  - WebKit
+
+All automated tests successfully execute through GitHub Actions CI/CD.
+
+---
+
 ## QA Documentation
 
 This project follows Agile QA practices:
@@ -282,3 +304,18 @@ Planned enhancements:
 ## Author
 
 **Nipun Yarlagadda**
+
+QA Automation Engineer Portfolio Project
+
+Technical Skills Demonstrated:
+
+- Playwright
+- TypeScript
+- JavaScript/Node.js
+- API Testing
+- PostgreSQL
+- SQL Validation
+- Git/GitHub
+- GitHub Actions CI/CD
+- Page Object Model
+- Agile QA Practices
